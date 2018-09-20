@@ -1,0 +1,28 @@
+_repo: Biographical-Anecdotes-of-William-Hogarth-With-a-Catalogue-of-His-Works_52862
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nichols, John
+    aliases:
+    - Nichols, J. (John)
+    - Urban, Sylvanus
+    birthdate: 1745
+    deathdate: 1826
+    gutenberg_agent_id: '45214'
+    url: http://www.gutenberg.org/2009/agents/45214
+description: ''
+gutenberg_issued: '2016-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52862'
+  lccn: '10018162'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hogarth, William, 1697-1764'
+- !lcc 'ND'
+- GITenberg
+title: Biographical Anecdotes of William Hogarth, With a Catalogue of His Works
+url: http://www.gutenberg.org/ebooks/52862
