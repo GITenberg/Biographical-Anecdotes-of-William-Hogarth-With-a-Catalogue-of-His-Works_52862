@@ -1,5 +1,8 @@
 _repo: Biographical-Anecdotes-of-William-Hogarth-With-a-Catalogue-of-His-Works_52862
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52862-h/images/cover.jpg
 creator:
   author:
     agent_name: Nichols, John
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '45214'
     url: http://www.gutenberg.org/2009/agents/45214
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52862#Biographical-Anecdotes-of-William-Hogarth-With-a-Catalogue-of-His-Works
 gutenberg_issued: '2016-08-21'
 gutenberg_type: Text
 identifiers:
